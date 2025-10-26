@@ -1,3 +1,6 @@
+// Ethan Wylie - eowylie
+// CS303 Assignment 4
+
 #ifndef __asgn4__
 #define __asgn4__
 
