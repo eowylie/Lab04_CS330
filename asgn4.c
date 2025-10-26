@@ -1,3 +1,6 @@
+// Ethan Wylie - eowylie
+// CS303 Assignment 4
+
 #include <stdio.h>
 #include "asgn4.h"
 
