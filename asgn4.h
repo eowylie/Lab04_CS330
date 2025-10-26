@@ -1,3 +1,13 @@
+#ifndef __asgn4__
+#define __asgn4__
+
+/* the two lines above check to ensure
+we haven't already included this header*/
+
+
+/* your functions go here */
+// Note: main() goes in the asgn4.c file
+
 #include <stdio.h>
 
 /*
